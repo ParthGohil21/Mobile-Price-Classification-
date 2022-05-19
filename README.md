@@ -1,7 +1,9 @@
 # Mobile-Price-Classification-
 
+![image](https://user-images.githubusercontent.com/85442734/169301290-ce8f60c8-0811-4d0e-ab2a-495648d1378a.png)
 
-# Tools Overview
+
+## Tools Overview
 The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another and day to day.
 
 Python is a high level programming language that has got a lot of popularity in the data community and with the rapid growth of the libraries and frameworks, this is a right programming language to do ML.
